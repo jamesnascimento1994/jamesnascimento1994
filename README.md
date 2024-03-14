@@ -4,7 +4,7 @@ I am a recent graduate of Google's cybersecurity certificate program.
 
 ## Objective
 
-My learning path in software development has led me to take an interest in stepping into the cybersecurity industry. I am looking to pursue an entry-level security analyst role.
+My learning path in software development has made me interested in the cybersecurity industry. I am looking to pursue an entry-level security analyst role.
 
 ## Skills
 

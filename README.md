@@ -21,6 +21,7 @@ My learning path in software development has led me to take an interest in stepp
 - <a href="https://docs.google.com/document/d/1dsKz1ktSOjB9NQtLgcJsDwRl_tY0oYyE7LQ8s4fNzNw/edit?usp=sharing">Access Controls Exercise</a>
 - <a href="https://docs.google.com/document/d/14ZQyubieW4o7mKTHZFEawlB2P2XRcGSNTZkNeXMLZJA/edit?usp=sharing&resourcekey=0-9VnBIW7vL9qif3h-b54h3w">Linux File Permissions</a>
 - <a href="https://docs.google.com/document/d/1HSWSrsUQqxG4JI9pcQ-lO7T39Rf_DJxVpJ3Hti5oWlw/edit?usp=sharing">Incident Handler's Journal</a>
+- <a href="https://docs.google.com/document/d/1alYMfD3hWwUEE6U9ddydI7l4uKt3gDWRn_s8TXIl0G0/edit">Burp Suite Learning Journey</a>
 
 ## Certifications
 

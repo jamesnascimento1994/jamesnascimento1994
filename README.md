@@ -26,6 +26,7 @@ My learning path in software development has made me interested in the cybersecu
 ## Certifications
 
 - Coursera: Google Cybersecurity
+- freeCodeCamp: Data Analysis with Python
 
 
 I also have experience in software development. If that interests you, then you can look at that portfolio here: <a href="https://james-nascimento-portfolio.netlify.app/">Developer Portfolio</a>

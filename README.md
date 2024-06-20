@@ -8,6 +8,7 @@ My learning path in software development has made me interested in the cybersecu
 
 ## Skills
 
+- JavaScript
 - Linux
 - Python
 - SQL
@@ -22,11 +23,19 @@ My learning path in software development has made me interested in the cybersecu
 - <a href="https://docs.google.com/document/d/14ZQyubieW4o7mKTHZFEawlB2P2XRcGSNTZkNeXMLZJA/edit?usp=sharing&resourcekey=0-9VnBIW7vL9qif3h-b54h3w">Linux File Permissions</a>
 - <a href="https://docs.google.com/document/d/1HSWSrsUQqxG4JI9pcQ-lO7T39Rf_DJxVpJ3Hti5oWlw/edit?usp=sharing">Incident Handler's Journal</a>
 - <a href="https://docs.google.com/document/d/1alYMfD3hWwUEE6U9ddydI7l4uKt3gDWRn_s8TXIl0G0/edit">Burp Suite Learning Journey</a>
+- <a href="https://github.com/jamesnascimento1994/boilerplate-project-stockchecker">Stock Checker</a>
 
 ## Certifications
 
 - Coursera: Google Cybersecurity
 - freeCodeCamp: Data Analysis with Python
+- freeCodeCamp: Scientific Computing with Python
+- freeCodeCamp: Quality Assurance
+- freeCodeCamp: Backend Development and APIs
+- freeCodeCamp: Relational Databases
+- freeCodeCamp: Data Visualization
+- freeCodeCamp: Frontend Libraries
+- freeCodeCamp: Responsive Web Design
 
 
 I also have experience in software development. If that interests you, then you can look at that portfolio here: <a href="https://james-nascimento-portfolio.netlify.app/">Developer Portfolio</a>
